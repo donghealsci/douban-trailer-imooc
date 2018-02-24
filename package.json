@@ -4,7 +4,9 @@
   "description": "douban-trailer-imooc",
   "main": "index.js",
   "dependencies": {
-    "koa": "^2.5.0"
+    "ejs": "^2.5.7",
+    "koa": "^2.5.0",
+    "pug": "^2.0.0-rc.4"
   },
   "devDependencies": {},
   "scripts": {
